@@ -1,32 +1,25 @@
 body{
-    font: Helvetica;
+    font-style: Arial, Helvetica, Sans-serif;
 }
 
 .container{
     width: 500px;
 }
 
-/* john ryk nava */
 h1{
-    color: #375e97;
-    border-bottom: 5px dotted #375e97;
+    font-style: Georgia;
     font-size: 2em;
+    border-bottom: 5px dotted #375e97;
+    color: #375e97;
+
     width: 500px;
 }
 
-/* aspiring web design */
 #job{
     color: #999999;
     font-size: 1.5em;
-}
+} 
 
-/* contact information */
-.contact{
-    font-size: 25px;
-
-}
-
-/* links */
 .info{
     background-color: #eeeeee;
     border: 5px solid purple;
@@ -34,8 +27,12 @@ h1{
     width: 500px;
 }
 
-/* email and web */
 .link{
     color: #2b99e6;
     /* color: #82b8de; */
+}
+
+ul li:hover{
+    text-decoration: none;
+    
 }
