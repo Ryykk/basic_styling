@@ -32,7 +32,7 @@ h1{
     /* color: #82b8de; */
 }
 
-ul li:hover{
+ul li a:hover{
     text-decoration: none;
-    
+
 }
