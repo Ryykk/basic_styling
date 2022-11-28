@@ -4,7 +4,7 @@
 
 
 body{
-    font-style: Arial, Helvetica, Sans-serif;
+    font-family: Arial, Helvetica, Serif;
 }
 
 .container{
@@ -12,12 +12,12 @@ body{
 }
 
 h1{
-    font-style: Georgia;
+    font-family: Georgia, 'Times New Roman', Times, serif;
     font-size: 2em;
     border-bottom: 5px dotted #375e97;
     color: #375e97;
 
-    width: 400px;
+    width: 440px;
 }
 
 #job{
@@ -28,7 +28,7 @@ h1{
 .info{
     background-color: #eeeeee;
     border: 5px solid purple;
-    padding-left: 25px;
+    padding: 10px 0px 10px 25px;
     width: 400px;
 }
 
