@@ -1,9 +1,14 @@
+*{
+    padding: 0%;
+}
+
+
 body{
     font-style: Arial, Helvetica, Sans-serif;
 }
 
 .container{
-    width: 500px;
+    width: 400px;
 }
 
 h1{
@@ -12,7 +17,7 @@ h1{
     border-bottom: 5px dotted #375e97;
     color: #375e97;
 
-    width: 500px;
+    width: 400px;
 }
 
 #job{
@@ -23,16 +28,15 @@ h1{
 .info{
     background-color: #eeeeee;
     border: 5px solid purple;
-    padding-left: 0px;
-    width: 500px;
+    padding-left: 25px;
+    width: 400px;
 }
 
 .link{
-    color: #2b99e6;
-    /* color: #82b8de; */
+    color: #82b8de;
 }
 
 ul li a:hover{
     text-decoration: none;
-
+    color: #2b99e6;
 }
